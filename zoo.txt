@@ -52,3 +52,40 @@ choropleth map
 graduated symbol map
 symbols over an underlying map
 Cartograms
+Dorling cartogram
+sized circle
+flat collection of numbers
+hierarchies
+k-means clustering
+multi-scale inferences
+micro-observations of individual elements
+macro-observations of large groups
+tree
+nesting of data
+node-link diagram
+dendrogram
+indented trees
+multi-scale inferences
+efficient interactive exploration
+rapid scanning
+Adjacency diagrams
+length encoding
+sunburst
+icicle
+partition
+cluster
+Enclosure diagrams
+treemap 
+Squarified treemaps
+wasted space
+relationship
+networks
+closely-related nodes
+graph distance
+number of links
+unrelated nodes
+force-directed layouts
+arc diagram
+one-dimensional
+seriation
+adjacency matrix
