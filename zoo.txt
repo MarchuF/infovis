@@ -46,3 +46,6 @@ multivariate data
 maps
 geographical data
 cartographic projection
+flow map
+depict the movement
+choropleth map
