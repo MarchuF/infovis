@@ -38,3 +38,11 @@ stem-and-leaf plot
 frequency distribution
 quantile-quantile
 compare two probability distributions
+relationships among multiple variables
+scatter plot matrix
+correlations between any pair of variables
+Parallel coordinates
+multivariate data
+maps
+geographical data
+cartographic projection
