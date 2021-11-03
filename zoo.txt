@@ -3,4 +3,38 @@ explore, relate, and communicate the data
 visualization is to aid our understanding of data
 ability to see patterns, spot trends, and identify outliers
 By making data more accessible and appealing
-
+graphical perception
+bar charts
+line charts
+scatter plots
+time-series
+statistical
+maps
+hierarchies
+networks
+Time-varying phenomena
+normalized
+index chart 
+stacked graph
+stream graphs
+aggregate patterns
+Stacked graphs do not support negative
+stacking may make it difficult to accurately interpret trends
+multiple time-series
+small multiples
+trends
+patterns
+Horizon graphs
+increasing the data density
+how a set of numbers are distributed
+visualizations is exploratory data analysis
+histograms
+box-and-whisker plots
+mean
+median
+quartile 
+extreme outliers
+stem-and-leaf plot
+frequency distribution
+quantile-quantile
+compare two probability distributions
