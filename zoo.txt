@@ -49,3 +49,6 @@ cartographic projection
 flow map
 depict the movement
 choropleth map
+graduated symbol map
+symbols over an underlying map
+Cartograms
